@@ -1,3 +1,5 @@
 # cellphone-login-demo
 
-实现一个手机验证码登录的界面
+一些react组件
+倒计时
+自动补全防抖
