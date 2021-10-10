@@ -1,5 +1,6 @@
 // import React from 'react';
 import './App.css';
+import Query from './pages/Query';
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
         </div>
         <button>立即登录</button>
       </form>
+
+      <Query />
     </div>
   );
 }
